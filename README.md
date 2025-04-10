@@ -1,3 +1,3 @@
 # git-training
 
-adding feature b
+adding feature ab
